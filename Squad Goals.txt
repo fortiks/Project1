@@ -1,1 +1,26 @@
+SDL for window creation
+https://wiki.libsdl.org/
+https://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/msvc2019/index.php
+https://www.libsdl.org/tmp/SDL/VisualC.html
+https://youtu.be/FxCC9Ces1Yg
+
 2.1 Core Techniques:
+  2.1.2 - Skeletal Animation
+
+2.2 Geometry:
+  2.2.3 - Height Mapping
+  2.2.4 ELLER 2.2.5 - 
+    Level of Detaul Using Tesselation ELLER
+    Morph-Based Vertex Animation
+
+2.3 Texturing and Lighting:
+  2.3.3 - Blend Mapping
+
+2.4 Projection Techniques:
+  2.4.2 - Dynamic Cube Enviornment Mapping (Tills vidare, skall kanske bytas)
+
+2.5 Acceleration Techniques:
+  2.5.3 - Back Face Culling Using Geometry Shader (Tills vidare, skall kanske bytas)
+
+2.6 Other Techniques:
+  To be continued
